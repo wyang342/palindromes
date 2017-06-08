@@ -7,6 +7,8 @@ puts palindrome('ciVic') == true
 puts palindrome('nice') == false
 puts palindrome(434) == true
 puts palindrome(123) == false
+puts palindrome('bomb') == false
+puts palindrome(092490) == false
 
 puts "The following should be true if you're trying to do the extra portion of this challenge"
 puts palindrome('Sore was I ere I saw Eros.') == true
