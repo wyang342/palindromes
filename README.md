@@ -13,7 +13,7 @@ With the definition in mind, we are going to create a program that can detect if
 
 ## Test Your Code
 
-Remember. Red, Green, Refactor. You should start this exercise by running the test spec, palindrome_spec.rb (```ruby palindrome_spec.rb```).
+Remember. Red, Green, Refactor. You should start this exercise by running the test spec, palindrome_spec.rb (```python palindrome_spec.rb```).
 
 ## Challenge Yourself
 
