@@ -1,3 +1,5 @@
+# Can you translate this driver code to unit tests?
+
 from palindrome import palindrome
 # This should return a bunch of trues
 print(palindrome('racecar') == True)
