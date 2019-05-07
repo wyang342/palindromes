@@ -1,3 +1,5 @@
+// Can you translate this driver code to unit tests?
+
 var pal = require("./palindrome");
 
 console.log(pal.palindrome('racecar') === true);
